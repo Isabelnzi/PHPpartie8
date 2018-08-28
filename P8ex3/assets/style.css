@@ -1,0 +1,13 @@
+
+input{
+  background-color: #f4b7e2;
+  border-color: red;
+  border-radius: 25px;
+}
+button{
+    background-color: #73d174;
+    border-radius: 15px;
+}
+body{
+    background-color: #ffb797;
+}
